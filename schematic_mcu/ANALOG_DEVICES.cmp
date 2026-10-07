@@ -1,0 +1,69 @@
+Component Name : Component_1
+
+Part Count : 2
+
+Part : *
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : *
+     Pins - (Normal) : 57
+          DGND           1              Passive
+          IOVDD          2              Passive
+          VDRIVE         3              Passive
+          SPDIFIN        4              Passive
+          SPDIFOUT       5              Passive
+          AGND           6              Passive
+          AVDD           7              Passive
+          AUXADC0        8              Passive
+          AUXADC1        9              Passive
+          AUXADC2        10             Passive
+          AUXADC3        11             Passive
+          AUXADC4        12             Passive
+          AUXADC5        13             Passive
+          PGND           14             Passive
+          PVDD           15             Passive
+          PLLFILT        16             Passive
+          DGND           17             Passive
+          IOVDD          18             Passive
+          DGND           19             Passive
+          DVDD           20             Passive
+          XTALIN/MCLK    21             Passive
+          XTALOUT        22             Passive
+          CLKOUT         23             Passive
+          RESET          24             Passive
+          DGND           25             Passive
+          SS_M/MP0       26             Passive
+          MOSI_M/MP1     27             Passive
+          SCL_M/SCLK_M/MP228             Passive
+          SDA_M/SCLK_M/MP329             Passive
+          MISO/SDA       30             Passive
+          SCLK/SCL       31             Passive
+          MOSI/ADDR1     32             Passive
+          SS/ADDR0       33             Passive
+          SELFBOOT       34             Passive
+          DVDD           35             Passive
+          DGND           36             Passive
+          DGND           37             Passive
+          IOVDD          38             Passive
+          LRCLK_OUT0/MP4 39             Passive
+          BCLK_OUT0      40             Passive
+          SDATA_OUT0     41             Passive
+          LRCLK_OUT1/MP5 42             Passive
+          BCLK_OUT1      43             Passive
+          SDATA_OUT1     44             Passive
+          MP6            45             Passive
+          MP7            46             Passive
+          LRCLK_OUT2/MP8 47             Passive
+          BCLK_OUT2      48             Passive
+          SDATA_OUT2     49             Passive
+          LRCLK_OUT2/MP9 50             Passive
+          BCLK_OUT3      51             Passive
+          SDATA_OUT      52             Passive
+          DVDD           53             Passive
+          DGND           54             Passive
+          DGND           55             Passive
+          IOVDD          56             Passive
+          BCLK_IN0       57             Passive
+          Hidden Pins : 
+
